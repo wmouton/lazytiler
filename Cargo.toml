@@ -1,0 +1,20 @@
+[package]
+name = "lazytiler"
+version = "0.1.0"
+authors = ["WMouton <wmouton@protonmail.com>"]
+description = "Autotiling for SwayWM and i3WM"
+edition = "2021"
+
+[dependencies]
+swayipc = "3.0"
+
+[dependencies.clap]
+version = "3.0"
+default-features = false
+features = ["std", "derive"]
+
+[profile.release]
+codegen-units = 1
+lto = true
+panic = "abort"
+strip = true
