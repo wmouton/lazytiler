@@ -1,0 +1,11 @@
+/home/wmouton/WMouton/Repositories/Projects/lazytiler/target/release/deps/libswayipc-aca1eb27eeacefeb.rmeta: /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/lib.rs /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/common.rs /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/connection.rs /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/event.rs /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/socket.rs
+
+/home/wmouton/WMouton/Repositories/Projects/lazytiler/target/release/deps/libswayipc-aca1eb27eeacefeb.rlib: /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/lib.rs /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/common.rs /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/connection.rs /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/event.rs /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/socket.rs
+
+/home/wmouton/WMouton/Repositories/Projects/lazytiler/target/release/deps/swayipc-aca1eb27eeacefeb.d: /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/lib.rs /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/common.rs /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/connection.rs /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/event.rs /home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/socket.rs
+
+/home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/lib.rs:
+/home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/common.rs:
+/home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/connection.rs:
+/home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/event.rs:
+/home/wmouton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/swayipc-3.0.2/src/socket.rs:
